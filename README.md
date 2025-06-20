@@ -31,7 +31,7 @@ If DC-DC 5V fails, boost converter activates to maintain operation using battery
 Li-ion battery is continuously charged during regular operation.
 
 ## 🔧 Features
-#🛰️ GNSS Antenna Support for positioning or navigation modules.
+## 🛰️ GNSS Antenna Support for positioning or navigation modules.
 
 ## 🔄 Level Shifters for voltage compatibility between RP2040 and GSM module.
 
