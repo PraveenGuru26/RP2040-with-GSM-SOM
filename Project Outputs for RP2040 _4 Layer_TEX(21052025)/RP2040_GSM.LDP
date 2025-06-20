@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\RP2040 _4 Layer_TEX(21052025)\RP2040_GSM.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=rp2040_gsm-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=rp2040_gsm-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl

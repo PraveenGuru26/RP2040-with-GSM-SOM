@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=BLOCK DIAGRAM.SchDoc|SheetNumber=3
+Record=SheetSymbol|SourceDocument=BLOCK DIAGRAM.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Raspberry PI.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=Raspberry PI.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLOCK DIAGRAM.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Optocoupler.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=Optocoupler.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLOCK DIAGRAM.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Power circuit.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Power circuit.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=BLOCK DIAGRAM.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=GSM_SOM.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=GSM_SOM.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=BLOCK DIAGRAM.SchDoc|FileName=Block.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=BLOCK DIAGRAM.SchDoc|FileName=GSM Module.SchDoc|SheetNumber=2

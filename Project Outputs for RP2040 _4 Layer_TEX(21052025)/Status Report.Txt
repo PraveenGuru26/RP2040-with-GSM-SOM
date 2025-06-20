@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [RP2040 _4 Layer_TEX(21052025).PrjPcb]
+   Generated File[Pick Place for RP2040_GSM.txt]
+   Generated File[Pick Place for RP2040_GSM.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 11:15:54 AM On 14-06-2025
