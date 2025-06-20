@@ -1,5 +1,5 @@
-## RP2040-with-GSM-SOM
-# 📄 Overview
+# RP2040-with-GSM-SOM
+## 📄 Overview
 This repository contains the schematic and block design documentation for a custom 4-layer embedded system built around the Raspberry Pi Pico (RP2040). This robust design is tailored for low-power IoT applications requiring reliable communication, data logging, and remote monitoring functionalities.
 
 ## Key Components
