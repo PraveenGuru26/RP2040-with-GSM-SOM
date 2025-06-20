@@ -2,7 +2,7 @@
 *📄 Overview
 This repository contains the schematic and block design documentation for a custom 4-layer embedded system built around the Raspberry Pi Pico (RP2040). This robust design is tailored for low-power IoT applications requiring reliable communication, data logging, and remote monitoring functionalities.
 
-#🧩 Key Components
+**##🧩 Key Components**
 RP2040 (Raspberry Pi Pico W): Main controller with Wi-Fi capability.
 
 GSM System-on-Module (AS7672S): For remote communication and data transmission.
